@@ -35,7 +35,7 @@ A curated list of Veeam Technical Resources
 * [Veeam Vanguard / Ian Sanderson](http://www.snurf.co.uk/)
 * [Veeam Vanguard / Matt Crape](https://42u.ca)
 * [Veeam Vanguard / James Kilby](https://jameskilby.co.uk/)
-* [Veeam Vanguard / Craig Darylepole](https://www.cragdoo.co.uk/)
+* [Veeam Vanguard / Craig Dalrymple](https://www.cragdoo.co.uk/)
 * [Veeam Vanguard / Falko Banaszak](https://www.virtualhome.blog)
 * [Veeam Vanguard / Florian Raack](https://www.virtualhome.blog)
 * Jorge De La Cruz
@@ -62,7 +62,7 @@ A curated list of Veeam Technical Resources
 * [Veeam Vanguard / Ian Sanderson](https://twitter.com/ian0x0r)
 * [Veeam Vanguard / Matt Crape](https://twitter.com/MattThatITGuy)
 * [Veeam Vanguard / James Kilby](https://twitter.com/jameskilbynet)
-* [Veeam Vanguard / Craig Darylepole](https://twitter.com/cragdoo)
+* [Veeam Vanguard / Craig Dalrymple](https://twitter.com/cragdoo)
 * [Veeam Vanguard / Falko Banaszak](https://twitter.com/Falko_Banaszak) 
 * [Veeam Vanguard / Florian Raack](https://twitter.com/vfraack)
 * [Veeam Vanguard / Chris Childerhose](https://twitter.com/cchilderhose)
